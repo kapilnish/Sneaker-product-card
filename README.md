@@ -1,3 +1,4 @@
 Sneaker product card...
 
-![Screenshot (107)](https://github.com/kapilnish/Sneaker-product-card/assets/91783684/4790780a-f16d-4ddb-8e00-5a61f63b7a5d)
+
+![Screenshot (107)](https://github.com/kapilnish/Sneaker-product-card/assets/91783684/d445fb3d-f93b-4fa8-a00f-30e21182a62e)
